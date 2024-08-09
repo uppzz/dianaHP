@@ -1,0 +1,41 @@
+body {
+    background-color: hotpink;
+    padding-left: 40px;
+}
+
+p {
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*padding: 100px 50px 20px 30px;*/
+    /*padding: 20px 60px;*/
+    /*padding: 100px;*/
+    background-color: black;
+    color: darkgray;
+    border-radius: 50px;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 14px;
+    font-weight: revert;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+#latte {
+    width: 500px;
+    border-radius: 20px;
+    border: 10px solid black;
+}
+
+/*#test {*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    border: 3px solid black;*/
+/*    border-radius: 0;*/
+/*    color: white;*/
+/*    background-color: black;*/
+/*    padding-left: 50px;*/
+/*    padding-top: 50px;*/
+/*}*/
