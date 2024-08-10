@@ -7,7 +7,7 @@ function checkPassword() {
     var firstHiddenDiv = document.getElementById('firstHidden');
 
     // Passwortüberprüfung
-    if (passwordInput === "anaid") {
+    if (passwordInput === "Anaid" || passwordInput === "anaid") {
         // Zeige das versteckte div an
         firstHiddenDiv.style.display = 'block';
 
